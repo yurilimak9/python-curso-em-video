@@ -1,4 +1,4 @@
-print('{:=^23}'.format(' AULA 19 '))
+print('+ {:=^23} +'.format(' AULA 19 '))
 
 locadora = list()
 filme = dict()
